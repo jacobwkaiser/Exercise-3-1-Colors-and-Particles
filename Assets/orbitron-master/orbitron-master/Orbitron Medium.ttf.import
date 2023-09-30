@@ -1,0 +1,33 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://tvr76r1w1t1q"
+path="res://.godot/imported/Orbitron Medium.ttf-668ae7aa579ef5d2b7a7ce15e28362cd.fontdata"
+
+[deps]
+
+source_file="res://Assets/orbitron-master/orbitron-master/Orbitron Medium.ttf"
+dest_files=["res://.godot/imported/Orbitron Medium.ttf-668ae7aa579ef5d2b7a7ce15e28362cd.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}
